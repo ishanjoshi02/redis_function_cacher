@@ -1,0 +1,4 @@
+REDIS_CONFIGURATION = {
+    "host": "localhost",
+    "port": 6379,
+}
